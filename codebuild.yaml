@@ -12,5 +12,5 @@ steps:
   - --filename=gke.yaml
   - --image=gcr.io/$PROJECT_ID/gcpdevops
   - --location=us-central1-c
-  - --cluster=my-first-cluster-1
+  - --cluster=noahmarch-cluster
   - --namespace=kodekloud-gcp-project
