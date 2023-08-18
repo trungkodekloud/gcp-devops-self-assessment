@@ -13,4 +13,4 @@ steps:
   - --image=gcr.io/$PROJECT_ID/kkloud-gcp-devops-project
   - --location=us-central1-c
   - --cluster=noahmarch-cluster
-  - --namespace=kodekloud-gcp-project 
+  - --namespace=kodekloud-gcp-project
